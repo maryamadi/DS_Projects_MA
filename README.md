@@ -1,4 +1,4 @@
-# DS_Projects_MA
+# Data Science Projects Maryam Adigozalzada
 SpringBoard DataScience Intensive Course Projects
 
 ### Curriculum
